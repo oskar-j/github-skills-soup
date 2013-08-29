@@ -1,0 +1,1921 @@
+[
+  {
+    "name": "Fabien Potencier",
+    "login": "fabpot",
+    "location": "Paris, France",
+    "language": [
+      "PHP",
+      " Shell",
+      " and JavaScript"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/f1a2c5905e121d09feba5ad73898ffca?d=https%3A%2F%2Fidenticons.github.com%2Fc84b270aa5893770d53468e5ccd5d512.png&s=400",
+    "followers": 3000,
+    "organizations": [
+      "swiftmailer",
+      "sensio",
+      "symfony",
+      "doctrine",
+      "sensiolabs"
+    ],
+    "contributions": 7216,
+    "contributionsStreak": 37,
+    "contributionsCurrentStreak": 8
+  },
+  {
+    "name": "Matthew Weier O'Phinney",
+    "login": "weierophinney",
+    "location": "Sioux Falls, SD, USA",
+    "language": [
+      "PHP",
+      " Shell",
+      " and VimL"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/bda768a042bd034f3f8090401aa77935?d=https%3A%2F%2Fidenticons.github.com%2Fbe5dfeb671c12d7520445b9292e10d13.png&s=400",
+    "followers": 1100,
+    "organizations": [
+      "zendframework",
+      "ZF-Commons",
+      "zendtech",
+      "basijeGithub"
+    ],
+    "contributions": 7145,
+    "contributionsStreak": 16,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "TJ Holowaychuk",
+    "login": "visionmedia",
+    "location": "Victoria, BC, Canada",
+    "language": [
+      "JavaScript",
+      " C",
+      " and Shell"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/f1e3ab214a976a39cfd713bc93deb10f?d=https%3A%2F%2Fidenticons.github.com%2F596676c0468e1aa77be2d247aa42455e.png&s=400",
+    "followers": 5800,
+    "organizations": [
+      "zeromq",
+      "LearnBoost",
+      "senchalabs",
+      "geeklist",
+      "luna",
+      "component",
+      "basijeGithub"
+    ],
+    "contributions": 6569,
+    "contributionsStreak": 55,
+    "contributionsCurrentStreak": 22
+  },
+  {
+    "name": "James Halliday",
+    "login": "substack",
+    "location": "Oakland, California, USA",
+    "language": [
+      "JavaScript",
+      " Shell",
+      " and Haskell"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/d4a2f12ceae3b7f211b661576d22bfb9?d=https%3A%2F%2Fidenticons.github.com%2F84adf1b967670705085ec0ca0cf48e31.png&s=400",
+    "followers": 2500,
+    "organizations": [
+      "nko",
+      "nko2",
+      "browserling",
+      "codeforoakland",
+      "voxel"
+    ],
+    "contributions": 5148,
+    "contributionsStreak": 75,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Kenneth Reitz",
+    "login": "kennethreitz",
+    "location": "Winchester, VA",
+    "language": [
+      "Python",
+      " Shell",
+      " and JavaScript"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/2eccc4005572c1e2b12a9c00580bc86f?d=https%3A%2F%2Fidenticons.github.com%2F443a90df8e9d5e7cd95bc7d811da7d1f.png&s=400",
+    "followers": 3700,
+    "organizations": [
+      "heroku",
+      "divio",
+      "thechangelog",
+      "dotcloud",
+      "revyver",
+      "DCPython",
+      "Hubcap",
+      "ArchiveTeam",
+      "diveintomark",
+      "kennethreitz-archive",
+      "chaos-labs",
+      "requests"
+    ],
+    "contributions": 3699,
+    "contributionsStreak": 24,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Mark Otto",
+    "login": "mdo",
+    "location": "San Francisco, CA",
+    "gravatar": "https://0.gravatar.com/avatar/bc4ab438f7a4ce1c406aadc688427f2c?d=https%3A%2F%2Fidenticons.github.com%2F10339ec809c5a79dbf25614ba22eee40.png&s=400",
+    "followers": 1700,
+    "organizations": [
+      "github",
+      "twitter",
+      "colossal",
+      "twbs"
+    ],
+    "contributions": 3590,
+    "contributionsStreak": 18,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "José Valim",
+    "login": "josevalim",
+    "location": "Kraków, Poland",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and Python"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/e837f6b7fd146ab16ed3d663476c063e?d=https%3A%2F%2Fidenticons.github.com%2Fe20b21ae6508f22fc189c60a0880d0b8.png&s=400",
+    "followers": 2300,
+    "organizations": [
+      "rails",
+      "rack",
+      "plataformatec",
+      "elixir-lang"
+    ],
+    "contributions": 3150,
+    "contributionsStreak": 149,
+    "contributionsCurrentStreak": 149
+  },
+  {
+    "name": "lifesinger",
+    "login": "lifesinger",
+    "location": "Hangzhou, China",
+    "language": [
+      "JavaScript",
+      " PHP",
+      " and CSS"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/db33090541526c03c798f82aa0a5dbaa?d=https%3A%2F%2Fidenticons.github.com%2Fc29e2f0d02014ac5e5d125370865fc0d.png&s=400",
+    "followers": 1600,
+    "organizations": [
+      "kissyteam",
+      "seajs",
+      "alipay",
+      "aralejs",
+      "aliceui"
+    ],
+    "contributions": 3136,
+    "contributionsStreak": 28,
+    "contributionsCurrentStreak": 5
+  },
+  {
+    "name": "Dr Nic Williams",
+    "login": "drnic",
+    "location": "Palo Alto, CA, USA",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and Shell"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/cb2b768a5e546b24052ea03334e43676?d=https%3A%2F%2Fidenticons.github.com%2Fa3c65c2974270fd093ee8a9bf8ae7d0b.png&s=400",
+    "followers": 1300,
+    "organizations": [
+      "mocra",
+      "rubinius",
+      "railsinstaller",
+      "cloudfoundry",
+      "svruby",
+      "puma",
+      "StarkAndWayne",
+      "cloudfoundry-community"
+    ],
+    "contributions": 3130,
+    "contributionsStreak": 64,
+    "contributionsCurrentStreak": 5
+  },
+  {
+    "name": "Max Ogden",
+    "login": "maxogden",
+    "location": "Oakland, CA",
+    "language": [
+      "JavaScript",
+      " Ruby",
+      " and Python"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/fcc9bbfe2a31c5a6225cc287ed7ae2a6?d=https%3A%2F%2Fidenticons.github.com%2Fd2cec4ae765e49fa93728f323ca5894e.png&s=400",
+    "followers": 1100,
+    "organizations": [
+      "codeforamerica",
+      "iriscouch",
+      "dataprotocols",
+      "Level",
+      "voxel"
+    ],
+    "contributions": 2924,
+    "contributionsStreak": 38,
+    "contributionsCurrentStreak": 2
+  },
+  {
+    "name": "Sindre Sorhus",
+    "login": "sindresorhus",
+    "location": "Norway",
+    "language": [
+      "JavaScript",
+      " Python",
+      " and CSS"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9?d=https%3A%2F%2Fidenticons.github.com%2F7fd6fb24bd6ad0594a07bfcc0bed6993.png&s=400",
+    "followers": 1100,
+    "organizations": [
+      "Modernizr",
+      "h5bp",
+      "editorconfig",
+      "ot-crew",
+      "gruntjs",
+      "yeoman",
+      "tastejs",
+      "IndigoUnited",
+      "components",
+      "aurajs",
+      "node-task",
+      "bower",
+      "UnicornConf"
+    ],
+    "contributions": 2801,
+    "contributionsStreak": 41,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Jake Wharton",
+    "login": "JakeWharton",
+    "location": "San Francisco, CA",
+    "language": [
+      "Java",
+      " Shell",
+      " and Python"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/e68309f117985270285ade8082f4877d?d=https%3A%2F%2Fidenticons.github.com%2F6feb2ea646d37fd3ffdaf2fdc6f0c0d3.png&s=400",
+    "followers": 2700,
+    "organizations": [
+      "square",
+      "robolectric"
+    ],
+    "contributions": 2694,
+    "contributionsStreak": 30,
+    "contributionsCurrentStreak": 10
+  },
+  {
+    "name": "Steve Klabnik",
+    "login": "steveklabnik",
+    "location": "Santa Monica, CA",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and CoffeeScript"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/233c279c012ebac792aaa805f966cbc7?d=https%3A%2F%2Fidenticons.github.com%2F0c22d45f31acf0f4192c8c12b7a55dee.png&s=400",
+    "followers": 1200,
+    "organizations": [
+      "rails",
+      "sinatra",
+      "xomboverlord",
+      "shoes",
+      "thechangelog",
+      "hacketyhack",
+      "rubinius",
+      "osgcc",
+      "arcturo",
+      "homesteading",
+      "JumpstartLab",
+      "documenting-ruby",
+      "Farmhouse",
+      "drapergem",
+      "resque"
+    ],
+    "contributions": 2606,
+    "contributionsStreak": 126,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Isaac Z. Schlueter",
+    "login": "isaacs",
+    "location": "Oakland CA",
+    "language": [
+      "JavaScript",
+      " Shell",
+      " and C"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/73a2b24daecb976af81e010b7a3ce3c6?d=https%3A%2F%2Fidenticons.github.com%2F903cc7be42d6fae3ae8c8be791ceeb74.png&s=400",
+    "followers": 2200,
+    "organizations": [
+      "joyent",
+      "thenodefirm",
+      "basijeGithub"
+    ],
+    "contributions": 2534,
+    "contributionsStreak": 25,
+    "contributionsCurrentStreak": 3
+  },
+  {
+    "name": "Ayende Rahien",
+    "login": "ayende",
+    "location": "Israel",
+    "gravatar": "https://0.gravatar.com/avatar/730a9f9186e14b8da5a4e453aca2adfe?d=https%3A%2F%2Fidenticons.github.com%2Fc3b8b49508c853e0845d9ac62b3540b0.png&s=400",
+    "followers": 1000,
+    "organizations": [
+      "castleproject",
+      "hibernating-rhinos"
+    ],
+    "contributions": 2387,
+    "contributionsStreak": 23,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Mattt Thompson",
+    "login": "mattt",
+    "location": "San Francisco, CA",
+    "language": [
+      "Ruby",
+      " Objective-C",
+      " and JavaScript"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/d29bb4d2d2f2ba2c2fb5a329e1e4651f?d=https%3A%2F%2Fidenticons.github.com%2F58b4095fb5335282cc3fde57c643da38.png&s=400",
+    "followers": 3100,
+    "organizations": [
+      "heroku",
+      "austinonrails",
+      "gowalla",
+      "austin-rb",
+      "AFNetworking",
+      "CocoaPods",
+      "Induction",
+      "nomad",
+      "NSHipster",
+      "helios-framework",
+      "PostgresApp"
+    ],
+    "contributions": 2294,
+    "contributionsStreak": 13,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Linus Torvalds",
+    "login": "torvalds",
+    "location": "Portland, OR",
+    "gravatar": "https://2.gravatar.com/avatar/fb47627bc8c0bcdb36321edfbf02e916?d=https%3A%2F%2Fidenticons.github.com%2F53c1a7e0d8a715fc44fff5aa512db9c3.png&s=400",
+    "followers": 12000,
+    "organizations": [
+      "DROPCitizenShip"
+    ],
+    "contributions": 2248,
+    "contributionsStreak": 29,
+    "contributionsCurrentStreak": 8
+  },
+  {
+    "name": "Mike Bostock",
+    "login": "mbostock",
+    "location": "San Francisco, CA",
+    "gravatar": "https://0.gravatar.com/avatar/005a27e09fe946ebef64bf4d134efc0a?d=https%3A%2F%2Fidenticons.github.com%2Fbccfec69c12f4875927673c36fb63cf4.png&s=400",
+    "followers": 2900,
+    "organizations": [
+      "NYTimes",
+      "protovis",
+      "d3"
+    ],
+    "contributions": 2147,
+    "contributionsStreak": 32,
+    "contributionsCurrentStreak": 3
+  },
+  {
+    "name": "Tatsuhiko Miyagawa",
+    "login": "miyagawa",
+    "location": "San Francisco, CA",
+    "language": [
+      "Perl",
+      " Ruby",
+      " and JavaScript"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/49e1240c84b221f3dcca57d005a2f569?d=https%3A%2F%2Fidenticons.github.com%2F3ea2db50e62ceefceaf70a9d9a56a6f4.png&s=400",
+    "followers": 1300,
+    "organizations": [
+      "cookpad",
+      "Perl-Toolchain-Gang",
+      "plack"
+    ],
+    "contributions": 2136,
+    "contributionsStreak": 21,
+    "contributionsCurrentStreak": 4
+  },
+  {
+    "name": "Peter Steinberger",
+    "login": "steipete",
+    "location": "Vienna, Austria",
+    "language": [
+      "Objective-C",
+      " C",
+      " and Shell"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/832ece085bfe2c7c5b0ed6be62d7e675?d=https%3A%2F%2Fidenticons.github.com%2Fc22e6415bc8ec4002b31583f43ce40fb.png&s=400",
+    "followers": 1100,
+    "organizations": [
+      "foundationkit",
+      "CocoaPods",
+      "PSPDFKit"
+    ],
+    "contributions": 2128,
+    "contributionsStreak": 20,
+    "contributionsCurrentStreak": 3
+  },
+  {
+    "name": "Koushik Dutta",
+    "login": "koush",
+    "location": "Seattle, WA",
+    "language": [
+      "Shell",
+      " Java",
+      " and C"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/397a38699baa96fa9cf4efab2d257442?d=https%3A%2F%2Fidenticons.github.com%2Fb682bcc838d091d6a17eceec700f865a.png&s=400",
+    "followers": 1300,
+    "organizations": [
+      "CyanogenMod",
+      "deployfu",
+      "ClockworkMod"
+    ],
+    "contributions": 1853,
+    "contributionsStreak": 41,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Yichun Zhang",
+    "login": "agentzh",
+    "location": "San Francisco, CA, USA",
+    "language": [
+      "Perl",
+      " Shell",
+      " and C"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/37f3ea777f96500b332a1a89d6027897?d=https%3A%2F%2Fidenticons.github.com%2Fe04e402ad3e0d0fde7fe7d1eaa374272.png&s=400",
+    "followers": 1400,
+    "organizations": [
+      "cloudflare"
+    ],
+    "contributions": 1844,
+    "contributionsStreak": 39,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Addy Osmani",
+    "login": "addyosmani",
+    "location": "London, England",
+    "language": [
+      "JavaScript",
+      " Shell",
+      " and Ruby"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275?d=https%3A%2F%2Fidenticons.github.com%2F6627f3ef867ca311aee371c8d34578bc.png&s=400",
+    "followers": 5100,
+    "organizations": [
+      "jquery",
+      "h5bp",
+      "umdjs",
+      "robohornet",
+      "yeoman",
+      "tastejs",
+      "GoogleChrome",
+      "html5rocks",
+      "components",
+      "jquery-boilerplate",
+      "aurajs",
+      "bower",
+      "UnicornConf"
+    ],
+    "contributions": 1791,
+    "contributionsStreak": 55,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Tim Caswell",
+    "login": "creationix",
+    "location": "Red Lick, TX, USA",
+    "language": [
+      "JavaScript",
+      " Lua",
+      " and Shell"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/c953ddd239707998340e1a6fbb3eeb46?d=https%3A%2F%2Fidenticons.github.com%2F6e87e3566bf2a3c0b3dad33dd319b537.png&s=400",
+    "followers": 1800,
+    "organizations": [
+      "senchalabs",
+      "luvit",
+      "nodebits",
+      "webos-commons",
+      "js-git"
+    ],
+    "contributions": 1750,
+    "contributionsStreak": 9,
+    "contributionsCurrentStreak": 4
+  },
+  {
+    "name": "Remy Sharp",
+    "login": "remy",
+    "location": "Brighton, UK",
+    "language": [
+      "JavaScript",
+      " PHP",
+      " and C"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/c8b387c489181844b3ffc704fadc0f14?d=https%3A%2F%2Fidenticons.github.com%2Fccbaefcc48cd5f8ec9309165ea694eb2.png&s=400",
+    "followers": 2000,
+    "organizations": [
+      "replaygaming",
+      "xui",
+      "leftlogic",
+      "basijeGithub",
+      "jsbin-org"
+    ],
+    "contributions": 1721,
+    "contributionsStreak": 48,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Mr.doob",
+    "login": "mrdoob",
+    "location": "Barcelona, Spain",
+    "language": [
+      "JavaScript",
+      " Python",
+      " and F"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/a00211a1e1aa4fe920302e7b76da0d91?d=https%3A%2F%2Fidenticons.github.com%2F209b8bb02039b028bead69c32ac9f5c0.png&s=400",
+    "followers": 3400,
+    "organizations": [
+      "xplsv"
+    ],
+    "contributions": 1706,
+    "contributionsStreak": 19,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Jeremy Ashkenas",
+    "login": "jashkenas",
+    "location": "On the Road",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and CoffeeScript"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/32652ed5b8fbd2ecdb1c78e9ac567b4b?d=https%3A%2F%2Fidenticons.github.com%2Ffd1d83de2517a02d4e221ede9a681432.png&s=400",
+    "followers": 4000,
+    "organizations": [
+      "documentcloud",
+      "NYTimes",
+      "coffeescript"
+    ],
+    "contributions": 1614,
+    "contributionsStreak": 11,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "David DeSandro",
+    "login": "desandro",
+    "location": "Brooklyn, NY",
+    "language": [
+      "JavaScript",
+      " Shell",
+      " and CSS"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/08452845db61b0edbb0c3c16d9599770?d=https%3A%2F%2Fidenticons.github.com%2F906a7cf4657ab3f2f031889a0ed25057.png&s=400",
+    "followers": 1800,
+    "organizations": [
+      "twitter",
+      "metafizzy",
+      "h5bp",
+      "components"
+    ],
+    "contributions": 1540,
+    "contributionsStreak": 23,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Aaron Patterson",
+    "login": "tenderlove",
+    "location": "Seattle",
+    "language": [
+      "Ruby",
+      " C",
+      " and JavaScript"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/f29327647a9cff5c69618bae420792ea?d=https%3A%2F%2Fidenticons.github.com%2F7c78335a8924215ea5c22fda1aac7b75.png&s=400",
+    "followers": 2500,
+    "organizations": [
+      "rails",
+      "rack",
+      "seattlerb",
+      "ruby",
+      "rubinius",
+      "att-innovate",
+      "att-cloud",
+      "sparklemotion",
+      "warningfree"
+    ],
+    "contributions": 1529,
+    "contributionsStreak": 10,
+    "contributionsCurrentStreak": 3
+  },
+  {
+    "name": "Nicolas Gallagher",
+    "login": "necolas",
+    "location": "San Francisco, CA",
+    "language": [
+      "JavaScript",
+      " PHP",
+      " and CSS"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/992c9c162c4c62ec0e2621b4f2206533?d=https%3A%2F%2Fidenticons.github.com%2F564587956c864030d4d100393c3be349.png&s=400",
+    "followers": 2000,
+    "organizations": [
+      "twitter",
+      "tweetdeck",
+      "h5bp",
+      "bower",
+      "flightjs",
+      "suitcss"
+    ],
+    "contributions": 1482,
+    "contributionsStreak": 22,
+    "contributionsCurrentStreak": 10
+  },
+  {
+    "name": "",
+    "login": "Marak",
+    "location": "San Francisco, California",
+    "language": [
+      "JavaScript",
+      " Perl",
+      " and C"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/7972c616246ab60df7cbc374d4ef9d35?d=https%3A%2F%2Fidenticons.github.com%2F57bc1715f4d4ce7782db81014dba7567.png&s=400",
+    "followers": 1200,
+    "organizations": [
+      "bigcompany",
+      "buttercoin"
+    ],
+    "contributions": 1447,
+    "contributionsStreak": 16,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Felix Geisendörfer",
+    "login": "felixge",
+    "location": "Berlin, Germany",
+    "language": [
+      "JavaScript",
+      " Shell",
+      " and PHP"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/23968f0ca75b13463d2db5343e5c2096?d=https%3A%2F%2Fidenticons.github.com%2F3f74a886c7f841699690962c497d4f30.png&s=400",
+    "followers": 1200,
+    "organizations": [
+      "transloadit",
+      "nodecopter",
+      "tus"
+    ],
+    "contributions": 1333,
+    "contributionsStreak": 16,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "John Nunemaker",
+    "login": "jnunemaker",
+    "location": "South Bend, IN, USA",
+    "language": [
+      "Ruby",
+      " Shell",
+      " and JavaScript"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/3783e88128f2773aa70a8f925d5f795d?d=https%3A%2F%2Fidenticons.github.com%2F577ef1154f3240ad5b9b413aa7346a1e.png&s=400",
+    "followers": 1100,
+    "organizations": [
+      "github",
+      "orderedlistinc"
+    ],
+    "contributions": 1294,
+    "contributionsStreak": 8,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Tim Pope",
+    "login": "tpope",
+    "location": "Brooklyn, NY",
+    "language": [
+      "VimL",
+      " Ruby",
+      " and Shell"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/67259dd09c53aef920fe2aca18c7a8e0?d=https%3A%2F%2Fidenticons.github.com%2F8bf1211fd4b7b94528899de0a43b9fb3.png&s=400",
+    "followers": 3800,
+    "organizations": [
+      "hashrocket",
+      "vim-ruby",
+      "thunderboltlabs"
+    ],
+    "contributions": 1288,
+    "contributionsStreak": 106,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Harry Roberts",
+    "login": "csswizardry",
+    "location": "Leeds, UK",
+    "language": [
+      "Shell",
+      " CSS",
+      " and Racket"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/435359cf1fcaf6b1c93b7f8b9166c861?d=https%3A%2F%2Fidenticons.github.com%2F701b910d59c31fad154194560200146c.png&s=400",
+    "followers": 1100,
+    "organizations": [],
+    "contributions": 1256,
+    "contributionsStreak": 14,
+    "contributionsCurrentStreak": 2
+  },
+  {
+    "name": "Sebastian Bergmann",
+    "login": "sebastianbergmann",
+    "location": "Siegburg, Germany",
+    "language": [
+      "PHP",
+      " Shell",
+      " and JavaScript"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/1f01f6b92d3be09868d1b65fca2d2fc1?d=https%3A%2F%2Fidenticons.github.com%2F3b21db6d1fb73d3868c096e723c07778.png&s=400",
+    "followers": 1500,
+    "organizations": [
+      "thePHPcc"
+    ],
+    "contributions": 1252,
+    "contributionsStreak": 30,
+    "contributionsCurrentStreak": 4
+  },
+  {
+    "name": "Mathias Bynens",
+    "login": "mathiasbynens",
+    "location": "Belgium",
+    "language": [
+      "JavaScript",
+      " Shell",
+      " and Python"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?d=https%3A%2F%2Fidenticons.github.com%2F40b157a07054152a85010ad58a585833.png&s=400",
+    "followers": 1200,
+    "organizations": [
+      "iRail",
+      "oftn",
+      "bestiejs",
+      "h5bp",
+      "FlatTurtle",
+      "whatwg",
+      "lodash"
+    ],
+    "contributions": 1187,
+    "contributionsStreak": 22,
+    "contributionsCurrentStreak": 3
+  },
+  {
+    "name": "Yukihiro \"Matz\" Matsumoto",
+    "login": "matz",
+    "location": "Matsue, Japan",
+    "gravatar": "https://2.gravatar.com/avatar/0ec4920185b657a03edf01fff96b4e9b?d=https%3A%2F%2Fidenticons.github.com%2Fcb94aaf0b2c6b5f1e466536643548ed9.png&s=400",
+    "followers": 1600,
+    "organizations": [
+      "mruby"
+    ],
+    "contributions": 1149,
+    "contributionsStreak": 23,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Joshua Peek",
+    "login": "josh",
+    "location": "Chicago, IL",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and CoffeeScript"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/bbe5dc8dcf248706525ab76f46185520?d=https%3A%2F%2Fidenticons.github.com%2F3988c7f88ebcb58c6ce932b957b6f332.png&s=400",
+    "followers": 1100,
+    "organizations": [
+      "github",
+      "37signals",
+      "rack"
+    ],
+    "contributions": 1148,
+    "contributionsStreak": 11,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Sam Soffes",
+    "login": "soffes",
+    "location": "San Francisco",
+    "language": [
+      "Ruby",
+      " Objective-C",
+      " and C"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/eb02c1cdbc2e1b474051b5c622e1d539?d=https%3A%2F%2Fidenticons.github.com%2F9a902b2bfeb36f7bc77cb7c310a27dfd.png&s=400",
+    "followers": 1500,
+    "organizations": [
+      "CocoaPods",
+      "nothingmagical",
+      "refactortv"
+    ],
+    "contributions": 1109,
+    "contributionsStreak": 14,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Yin Wang",
+    "login": "yinwang0",
+    "location": "San Francisco",
+    "language": [
+      "Scheme",
+      " JavaScript",
+      " and Racket"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/43ec631d6fda6a1cf42aaf875d784597?d=https%3A%2F%2Fidenticons.github.com%2F71945c68441f29a222b5689f640c956f.png&s=400",
+    "followers": 1600,
+    "organizations": [],
+    "contributions": 1106,
+    "contributionsStreak": 17,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Armin Ronacher",
+    "login": "mitsuhiko",
+    "location": "United Kingdom / Austria",
+    "language": [
+      "Python",
+      " JavaScript",
+      " and Shell"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/181de1fb11dffe39774f3e2e23cda3b6?d=https%3A%2F%2Fidenticons.github.com%2F8606f35ec6c77858dfb80a385d0d1151.png&s=400",
+    "followers": 2300,
+    "organizations": [
+      "fireteam",
+      "core"
+    ],
+    "contributions": 1088,
+    "contributionsStreak": 27,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Brad Fitzpatrick",
+    "login": "bradfitz",
+    "location": "San Francisco, CA",
+    "language": [
+      "Go",
+      " Perl",
+      " and Shell"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/903d96c91eb06237d765695845d51e72?d=https%3A%2F%2Fidenticons.github.com%2Fcc70903297fe1e25537ae50aea186306.png&s=400",
+    "followers": 1100,
+    "organizations": [
+      "djabberd",
+      "camlistore",
+      "google",
+      "golang"
+    ],
+    "contributions": 978,
+    "contributionsStreak": 16,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Salvatore Sanfilippo",
+    "login": "antirez",
+    "location": "Campobello di Licata, Sicily, Italy",
+    "language": [
+      "C",
+      " Ruby",
+      " and Shell"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/7379345fed54f2447537068ed1c2e440?d=https%3A%2F%2Fidenticons.github.com%2Fff13ef95c23cf94edf21d200ca1fa01c.png&s=400",
+    "followers": 1800,
+    "organizations": [
+      "redis"
+    ],
+    "contributions": 943,
+    "contributionsStreak": 7,
+    "contributionsCurrentStreak": 4
+  },
+  {
+    "name": "Mislav Marohnić",
+    "login": "mislav",
+    "location": "",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and Shell"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/8f93a872e399bc1353cc8d4e791d5401?d=https%3A%2F%2Fidenticons.github.com%2F7ce3284b743aefde80ffd9aec500e085.png&s=400",
+    "followers": 1000,
+    "organizations": [
+      "rails",
+      "radiant",
+      "vcr",
+      "basijeGithub"
+    ],
+    "contributions": 923,
+    "contributionsStreak": 11,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Guillermo Rauch",
+    "login": "guille",
+    "location": "SF",
+    "language": [
+      "JavaScript",
+      " PHP",
+      " and CoffeeScript"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/486e20e16ef676a02ac0299d2f92b813?d=https%3A%2F%2Fidenticons.github.com%2F2ca1ce4a65bf5b60c60bd7c4a89a33f9.png&s=400",
+    "followers": 1400,
+    "organizations": [
+      "mootools",
+      "LearnBoost",
+      "component",
+      "jsconf"
+    ],
+    "contributions": 917,
+    "contributionsStreak": 15,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Phil Sturgeon",
+    "login": "philsturgeon",
+    "location": "Williamsburg, New York",
+    "language": [
+      "PHP",
+      " Ruby",
+      " and JavaScript"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/14df293d6c5cd6f05996dfc606a6a951?d=https%3A%2F%2Fidenticons.github.com%2F17e505346d7f670dced5d85e72f32ab2.png&s=400",
+    "followers": 1600,
+    "organizations": [
+      "pyrocms",
+      "php-loep",
+      "kapture"
+    ],
+    "contributions": 862,
+    "contributionsStreak": 14,
+    "contributionsCurrentStreak": 6
+  },
+  {
+    "name": "Steve Kondik",
+    "login": "cyanogen",
+    "location": "Seattle, WA",
+    "language": [
+      "C",
+      " Shell",
+      " and Perl"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/345ef36929e4ecae65ed8fdee4ec92d0?d=https%3A%2F%2Fidenticons.github.com%2Fa5346c9266ff7fe69d0a9c7d4be67230.png&s=400",
+    "followers": 2000,
+    "organizations": [
+      "CyanogenMod",
+      "TeamChopsticks"
+    ],
+    "contributions": 849,
+    "contributionsStreak": 12,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "risk danger olson",
+    "login": "technoweenie",
+    "location": "Rapid City, SD",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and Shell"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/821395fe70906c8290df7f18ac4ac6cf?d=https%3A%2F%2Fidenticons.github.com%2F3c59dc048e8850243be8079a5c74d079.png&s=400",
+    "followers": 1900,
+    "organizations": [
+      "github",
+      "libgit2",
+      "lostisland"
+    ],
+    "contributions": 831,
+    "contributionsStreak": 6,
+    "contributionsCurrentStreak": 2
+  },
+  {
+    "name": "Yehuda Katz",
+    "login": "wycats",
+    "location": "San Francisco",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and C"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/428167a3ec72235ba971162924492609?d=https%3A%2F%2Fidenticons.github.com%2Fa87ff679a2f3e71d9181a67b7542122c.png&s=400",
+    "followers": 4100,
+    "organizations": [
+      "rails",
+      "jquery",
+      "carlhuda",
+      "rubinius",
+      "guard",
+      "getbpm",
+      "bpm",
+      "emberjs",
+      "emberjs-addons",
+      "tildeio",
+      "tokaido",
+      "erikhuda",
+      "components",
+      "w3ctag"
+    ],
+    "contributions": 811,
+    "contributionsStreak": 33,
+    "contributionsCurrentStreak": 3
+  },
+  {
+    "name": "Ben Alman",
+    "login": "cowboy",
+    "location": "Boston, MA",
+    "language": [
+      "JavaScript",
+      " PHP",
+      " and Shell"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/978a1a2a80394217a0e39c84f07a7c16?d=https%3A%2F%2Fidenticons.github.com%2F93851216f80848cd6feece07c3398617.png&s=400",
+    "followers": 1500,
+    "organizations": [
+      "jquery",
+      "bocoup",
+      "gruntjs",
+      "node-task"
+    ],
+    "contributions": 788,
+    "contributionsStreak": 6,
+    "contributionsCurrentStreak": 4
+  },
+  {
+    "name": "Tekkub",
+    "login": "tekkub",
+    "location": "Denver, CO",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and Lua"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/472814aac7576b67da59ea79fcbf7d66?d=https%3A%2F%2Fidenticons.github.com%2F9c82c7143c102b71c593d98d96093fde.png&s=400",
+    "followers": 3400,
+    "organizations": [
+      "github",
+      "TekNoLogic",
+      "tanuki"
+    ],
+    "contributions": 662,
+    "contributionsStreak": 10,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Sebastian Tschan",
+    "login": "blueimp",
+    "location": "",
+    "language": [
+      "JavaScript",
+      " CSS",
+      " and Go"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/188943e53857bfaca6a5cf4328866e5d?d=https%3A%2F%2Fidenticons.github.com%2Fdd5069279e54427380175523930f18da.png&s=400",
+    "followers": 1000,
+    "organizations": [],
+    "contributions": 624,
+    "contributionsStreak": 5,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Hakim El Hattab",
+    "login": "hakimel",
+    "location": "NYC",
+    "gravatar": "https://2.gravatar.com/avatar/669d1a520df32153f9793e33c3905476?d=https%3A%2F%2Fidenticons.github.com%2F267ed8b9950bd1a417088a2af34bbeb3.png&s=400",
+    "followers": 3100,
+    "organizations": [],
+    "contributions": 623,
+    "contributionsStreak": 10,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Paul Irish",
+    "login": "paulirish",
+    "location": "Palo Alto",
+    "language": [
+      "JavaScript",
+      " Shell",
+      " and PHP"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/ffe68d6f71b225f7661d33f2a8908281?d=https%3A%2F%2Fidenticons.github.com%2F5e3ba9f22a4dd63cc3112f8a4e989b47.png&s=400",
+    "followers": 8300,
+    "organizations": [
+      "filamentgroup",
+      "typekit",
+      "envylabs",
+      "jquery",
+      "Modernizr",
+      "codeschool",
+      "diveintomark",
+      "Motorola-Mobility",
+      "h5bp",
+      "jshint",
+      "ot-crew",
+      "robohornet",
+      "yeoman",
+      "GoogleChrome",
+      "IndigoUnited",
+      "html5rocks",
+      "components",
+      "bower",
+      "basijeGithub"
+    ],
+    "contributions": 591,
+    "contributionsStreak": 12,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Gina Trapani",
+    "login": "ginatrapani",
+    "location": "San Diego, CA",
+    "language": [
+      "JavaScript",
+      " PHP",
+      " and Shell"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/44230311a3dcd684b6c5f81bf2ec9f60?d=https%3A%2F%2Fidenticons.github.com%2F1e70bbafc137b304a9c9637c0ac6c91f.png&s=400",
+    "followers": 1500,
+    "organizations": [
+      "ThinkUpLLC"
+    ],
+    "contributions": 567,
+    "contributionsStreak": 11,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Jacob",
+    "login": "fat",
+    "location": "San Francisco, CA",
+    "language": [
+      "JavaScript",
+      " Ruby",
+      " and PHP"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/a98244cbdacaf1c0b55499466002f7a8?d=https%3A%2F%2Fidenticons.github.com%2F313701b540df992682dccc8f70dc12a0.png&s=400",
+    "followers": 2700,
+    "organizations": [
+      "twitter",
+      "adobe",
+      "ender-js",
+      "Obvious",
+      "colossal",
+      "components",
+      "maker",
+      "twbs"
+    ],
+    "contributions": 566,
+    "contributionsStreak": 9,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Mark Murphy",
+    "login": "commonsguy",
+    "location": "",
+    "language": [
+      "Java",
+      " Perl",
+      " and Shell"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/5ff53c2b4f6cc66ee989bb9d9effe119?d=https%3A%2F%2Fidenticons.github.com%2F096b80e226ef1197bacda53fb1ccace1.png&s=400",
+    "followers": 1800,
+    "organizations": [],
+    "contributions": 495,
+    "contributionsStreak": 5,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Nathan Marz",
+    "login": "nathanmarz",
+    "location": "San Francisco",
+    "language": [
+      "Clojure",
+      " Java",
+      " and Shell"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/dcb940360e18d06ae54ad76f972c6b7f?d=https%3A%2F%2Fidenticons.github.com%2F8606e546e761dbb7e76dcb20745ec9d4.png&s=400",
+    "followers": 1300,
+    "organizations": [
+      "Cascading"
+    ],
+    "contributions": 467,
+    "contributionsStreak": 6,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Alex MacCaw",
+    "login": "maccman",
+    "location": "San Francisco",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and CoffeeScript"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/baf018e2cc4616e4776d323215c7136c?d=https%3A%2F%2Fidenticons.github.com%2F2a34abd6ebbd7fcf5a4421229c946c0a.png&s=400",
+    "followers": 2400,
+    "organizations": [
+      "spine"
+    ],
+    "contributions": 447,
+    "contributionsStreak": 13,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Scott Jehl",
+    "login": "scottjehl",
+    "location": "Seagrove Beach, FL",
+    "language": [
+      "JavaScript",
+      " PHP",
+      " and CSS"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/4137f7daffde77fce06a26a1ac92f9bf?d=https%3A%2F%2Fidenticons.github.com%2F382f151e5c5cfb8d5a821505862702fe.png&s=400",
+    "followers": 1100,
+    "organizations": [
+      "filamentgroup",
+      "jquery",
+      "mobilewood",
+      "alistapart"
+    ],
+    "contributions": 425,
+    "contributionsStreak": 6,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Rebecca Murphey",
+    "login": "rmurphey",
+    "location": "Durham, NC",
+    "language": [
+      "JavaScript",
+      " Ruby",
+      " and Shell"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/0177cdce6af15e10db15b6bf5dc4e0b0?d=https%3A%2F%2Fidenticons.github.com%2F8bcb24b61474f7da06490a288971720b.png&s=400",
+    "followers": 1200,
+    "organizations": [
+      "ot-crew"
+    ],
+    "contributions": 415,
+    "contributionsStreak": 12,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "David Heinemeier Hansson",
+    "login": "dhh",
+    "location": "Chicago, USA",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and Shell"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/ed9635566b34ade32274f510f0f9a6d2?d=https%3A%2F%2Fidenticons.github.com%2Fcdcb2f5c7b071143529ef7f2705dfbc4.png&s=400",
+    "followers": 4400,
+    "organizations": [
+      "rails",
+      "37signals",
+      "tolk"
+    ],
+    "contributions": 414,
+    "contributionsStreak": 9,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Jacob Kaplan-Moss",
+    "login": "jacobian",
+    "location": "Lawrence, KS",
+    "language": [
+      "Python",
+      " Shell",
+      " and JavaScript"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/2f5463832ccb768ccb4a1ca3607c27ef?d=https%3A%2F%2Fidenticons.github.com%2F2d556f12cb76c6ae44082b922f93535d.png&s=400",
+    "followers": 1100,
+    "organizations": [
+      "django",
+      "revsys"
+    ],
+    "contributions": 410,
+    "contributionsStreak": 5,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "YAMAGUCHI EIKICHI",
+    "login": "glassesfactory",
+    "location": "tokyo,setagaya",
+    "language": [
+      "Python",
+      " JavaScript",
+      " and CoffeeScript"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/29ae0441f1980e37e2f6e57b2ed2c915?d=https%3A%2F%2Fidenticons.github.com%2F19bf4d1b687c5bda981b2225e2a93c13.png&s=400",
+    "followers": 1300,
+    "organizations": [],
+    "contributions": 394,
+    "contributionsStreak": 10,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Alexis Sellier",
+    "login": "cloudhead",
+    "location": "Berlin",
+    "language": [
+      "JavaScript",
+      " Ruby",
+      " and C"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/a8a0061962c41735ca87789720da46c8?d=https%3A%2F%2Fidenticons.github.com%2Fa18902f6926472c965c9b616fddb407d.png&s=400",
+    "followers": 2500,
+    "organizations": [
+      "dotcloud",
+      "Paws",
+      "readmill",
+      "oftn",
+      "arbre",
+      "less"
+    ],
+    "contributions": 340,
+    "contributionsStreak": 7,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Lea Verou",
+    "login": "LeaVerou",
+    "location": "Greece",
+    "language": [
+      "JavaScript",
+      " CSS",
+      " and PHP"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/3869e93ce6b2a22e37cf13281d9e6f75?d=https%3A%2F%2Fidenticons.github.com%2F1fc98a4e5d014bf3fa927f59f1136fb3.png&s=400",
+    "followers": 2900,
+    "organizations": [
+      "webplatform"
+    ],
+    "contributions": 336,
+    "contributionsStreak": 6,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Nicholas C. Zakas",
+    "login": "nzakas",
+    "location": "Mountain View, CA",
+    "language": [
+      "JavaScript",
+      " Shell",
+      " and Java"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/b605f11383e1ec18717bca5a5c36ee15?d=https%3A%2F%2Fidenticons.github.com%2F7521b1aabd1f65a32347dfcb0676a3c5.png&s=400",
+    "followers": 1400,
+    "organizations": [],
+    "contributions": 324,
+    "contributionsStreak": 19,
+    "contributionsCurrentStreak": 4
+  },
+  {
+    "name": "云风",
+    "login": "cloudwu",
+    "location": "",
+    "language": [
+      "C",
+      " Lua",
+      " and JavaScript"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/c4bdfcddb1a82bd027e8bdd6987e607e?d=https%3A%2F%2Fidenticons.github.com%2F25535ad1944b3ae73ac97ede9b73ccb9.png&s=400",
+    "followers": 1800,
+    "organizations": [],
+    "contributions": 310,
+    "contributionsStreak": 8,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Chris Coyier",
+    "login": "chriscoyier",
+    "location": "Milwaukee, WI",
+    "language": [
+      "JavaScript",
+      " Ruby",
+      " and PHP"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/8081b26e05bb4354f7d65ffc34cbbd67?d=https%3A%2F%2Fidenticons.github.com%2Fa302e3f3e891a1202046b6046d9bc5b8.png&s=400",
+    "followers": 2300,
+    "organizations": [
+      "h5bp",
+      "CodePen",
+      "CSS-Tricks"
+    ],
+    "contributions": 297,
+    "contributionsStreak": 9,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "John Resig",
+    "login": "jeresig",
+    "location": "Brooklyn, NY",
+    "language": [
+      "JavaScript",
+      " Python",
+      " and Perl"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/b3e04a46e85ad3e165d66f5d927eb609?d=https%3A%2F%2Fidenticons.github.com%2F71a58e8cb75904f24cde464161c3e766.png&s=400",
+    "followers": 5700,
+    "organizations": [
+      "Khan",
+      "jquery",
+      "Abacus",
+      "gittip"
+    ],
+    "contributions": 283,
+    "contributionsStreak": 5,
+    "contributionsCurrentStreak": 5
+  },
+  {
+    "name": "Zach Holman",
+    "login": "holman",
+    "location": "San Francisco, CA",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and Shell"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c?d=https%3A%2F%2Fidenticons.github.com%2Fc315f0320b7cd4ec85756fac52d78076.png&s=400",
+    "followers": 2600,
+    "organizations": [
+      "github",
+      "libgit2",
+      "play"
+    ],
+    "contributions": 262,
+    "contributionsStreak": 5,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Peteris Krumins",
+    "login": "pkrumins",
+    "location": "Riga, Latvia",
+    "gravatar": "https://2.gravatar.com/avatar/9055b6c1d07708555ec584d03c387f15?d=https%3A%2F%2Fidenticons.github.com%2F912b92ae7dbedd0344a6580a7b90efc6.png&s=400",
+    "followers": 1500,
+    "organizations": [
+      "browserling"
+    ],
+    "contributions": 259,
+    "contributionsStreak": 6,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Ilya Grigorik",
+    "login": "igrigorik",
+    "location": "Mountain View, CA",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and Shell"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/a17f0025641b4be419a6cd3845e55dd2?d=https%3A%2F%2Fidenticons.github.com%2F73d13a256dac51fcd7d34a340e8f7757.png&s=400",
+    "followers": 2200,
+    "organizations": [
+      "postrank-labs",
+      "pagespeed",
+      "html5rocks"
+    ],
+    "contributions": 229,
+    "contributionsStreak": 7,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Sam Stephenson",
+    "login": "sstephenson",
+    "location": "Chicago",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and CoffeeScript"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/5b9fe87ec1faa67a4599782930f45ec9?d=https%3A%2F%2Fidenticons.github.com%2F92f54963fc39a9d87c2253186808ea61.png&s=400",
+    "followers": 1800,
+    "organizations": [
+      "37signals"
+    ],
+    "contributions": 228,
+    "contributionsStreak": 10,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Tom Preston-Werner",
+    "login": "mojombo",
+    "location": "San Francisco",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and Erlang"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/25c7c18223fb42a4c6ae1c8db6f50f9b?d=https%3A%2F%2Fidenticons.github.com%2Fc4ca4238a0b923820dcc509a6f75849b.png&s=400",
+    "followers": 14000,
+    "organizations": [
+      "github"
+    ],
+    "contributions": 191,
+    "contributionsStreak": 9,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Ryan Tomayko",
+    "login": "rtomayko",
+    "location": "San Francisco",
+    "language": [
+      "Ruby",
+      " C",
+      " and Perl"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/abfc88b96ae18c85ba7aac3bded2ec5e?d=https%3A%2F%2Fidenticons.github.com%2F4f4adcbf8c6f66dcfc8a3282ac2bf10a.png&s=400",
+    "followers": 1400,
+    "organizations": [
+      "sinatra",
+      "github",
+      "rack"
+    ],
+    "contributions": 191,
+    "contributionsStreak": 3,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Thomas Fuchs",
+    "login": "madrobby",
+    "location": "Philadelphia, PA",
+    "language": [
+      "JavaScript",
+      " Ruby",
+      " and Shell"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/cf287bd57ec416f58baa2454fdd28e1e?d=https%3A%2F%2Fidenticons.github.com%2F8ed36a8485e30937b99c0d247e9c3832.png&s=400",
+    "followers": 1600,
+    "organizations": [
+      "cheerful"
+    ],
+    "contributions": 178,
+    "contributionsStreak": 4,
+    "contributionsCurrentStreak": 2
+  },
+  {
+    "name": "Zed A. Shaw",
+    "login": "zedshaw",
+    "location": "San Francisco, CA",
+    "language": [
+      "Python",
+      " C",
+      " and Shell"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/8c43ed7f065406bf171c0f3eb32cf615?d=https%3A%2F%2Fidenticons.github.com%2F0446b267c2c7a14738188e8386a6dea8.png&s=400",
+    "followers": 1300,
+    "organizations": [],
+    "contributions": 165,
+    "contributionsStreak": 6,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Anthony Ettinger",
+    "login": "chovy",
+    "location": "Capitola, CA",
+    "language": [
+      "JavaScript",
+      " Shell",
+      " and Python"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/5f8673ebb2a41d696a881b7b1c92d9ad?d=https%3A%2F%2Fidenticons.github.com%2Fcf5139a6d67298ed2ff533b7bc4fe709.png&s=400",
+    "followers": 1100,
+    "organizations": [],
+    "contributions": 161,
+    "contributionsStreak": 7,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Ryan Bates",
+    "login": "ryanb",
+    "location": "Southern Oregon",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and Shell"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/8dbf316d36ff66aad4869a4fc3cfbd37?d=https%3A%2F%2Fidenticons.github.com%2Fbd4c9ab730f5513206b999ec0d90d1fb.png&s=400",
+    "followers": 4900,
+    "organizations": [
+      "railscasts",
+      "RogueRails"
+    ],
+    "contributions": 125,
+    "contributionsStreak": 4,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Chris Granger",
+    "login": "ibdknox",
+    "location": "",
+    "language": [
+      "Clojure",
+      " JavaScript",
+      " and Shell"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/5c30df226ea6e7f58c050d4ad6b4514b?d=https%3A%2F%2Fidenticons.github.com%2F6ca57d2774f04ac8acf3d2b10f0338f4.png&s=400",
+    "followers": 1500,
+    "organizations": [
+      "Kodowa",
+      "noir-clojure",
+      "korma"
+    ],
+    "contributions": 125,
+    "contributionsStreak": 8,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Scott Chacon",
+    "login": "schacon",
+    "location": "San Francisco, CA",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and C"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/9375a9529679f1b42b567a640d775e7d?d=https%3A%2F%2Fidenticons.github.com%2F7cbbc409ec990f19c78c75bd1e06f215.png&s=400",
+    "followers": 8900,
+    "organizations": [
+      "github",
+      "git",
+      "progit",
+      "ghtraining",
+      "libgit2",
+      "speakfreely",
+      "git-merge",
+      "pdfdemo"
+    ],
+    "contributions": 124,
+    "contributionsStreak": 3,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Dustin Diaz",
+    "login": "ded",
+    "location": "San Francisco",
+    "gravatar": "https://2.gravatar.com/avatar/cfac4fc60b4e72258138903daab65b44?d=https%3A%2F%2Fidenticons.github.com%2Ffa4ef607e00dca6f10ad9911ae53c9eb.png&s=400",
+    "followers": 1100,
+    "organizations": [
+      "change",
+      "ender-js"
+    ],
+    "contributions": 113,
+    "contributionsStreak": 3,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Jeffrey Way",
+    "login": "JeffreyWay",
+    "location": "Chattanooga, TN",
+    "language": [
+      "PHP",
+      " JavaScript",
+      " and Shell"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/6fa6f0343e6c25ab7d7a68ae018fa5df?d=https%3A%2F%2Fidenticons.github.com%2Fee551e74fa1a5b35961bab2daf93b97b.png&s=400",
+    "followers": 1900,
+    "organizations": [
+      "envato"
+    ],
+    "contributions": 101,
+    "contributionsStreak": 6,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Rich Hickey",
+    "login": "richhickey",
+    "location": "NY",
+    "language": [
+      "Clojure",
+      " Java",
+      " and JavaScript"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/846ec9659b7b76c8fbb335f25b08d5d0?d=https%3A%2F%2Fidenticons.github.com%2F0d970b78ccd6d4614e74903eea91ca55.png&s=400",
+    "followers": 1300,
+    "organizations": [
+      "clojure",
+      "speakerconf"
+    ],
+    "contributions": 99,
+    "contributionsStreak": 10,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Gary Bernhardt",
+    "login": "garybernhardt",
+    "location": "Seattle, WA",
+    "language": [
+      "Ruby",
+      " Python",
+      " and Shell"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/0f3aad429c4fe35ea2bcffa654995a5e?d=https%3A%2F%2Fidenticons.github.com%2F8bfcbdd65996c417acdfad207838abb9.png&s=400",
+    "followers": 1100,
+    "organizations": [
+      "speakerconf"
+    ],
+    "contributions": 95,
+    "contributionsStreak": 2,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Chris Wanstrath",
+    "login": "defunkt",
+    "location": "San Francisco",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and Shell"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/b8dbb1987e8e5318584865f880036796?d=https%3A%2F%2Fidenticons.github.com%2Fc81e728d9d4c2f636f067f89cc14862c.png&s=400",
+    "followers": 12000,
+    "organizations": [
+      "github",
+      "mustache"
+    ],
+    "contributions": 89,
+    "contributionsStreak": 4,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Dmitry Baranovskiy",
+    "login": "DmitryBaranovskiy",
+    "location": "Sydney, Australia",
+    "language": [
+      "JavaScript",
+      " PHP",
+      " and Ruby"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/679a33ec2ceb2195591888496d287df8?d=https%3A%2F%2Fidenticons.github.com%2F1cf33fc29c5a7f169cb51d7afe381553.png&s=400",
+    "followers": 1200,
+    "organizations": [
+      "sydjs",
+      "adobe"
+    ],
+    "contributions": 62,
+    "contributionsStreak": 2,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Douglas Crockford",
+    "login": "douglascrockford",
+    "location": "",
+    "language": [
+      "JavaScript",
+      " C",
+      " and Perl"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/b871de839c31ddb1d9db8e33e0cb88a6?d=https%3A%2F%2Fidenticons.github.com%2F0563932710d3cf09c46b5c41d69099df.png&s=400",
+    "followers": 4700,
+    "organizations": [
+      "tc39"
+    ],
+    "contributions": 44,
+    "contributionsStreak": 3,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Leah Culver",
+    "login": "leah",
+    "location": "San Francisco, CA",
+    "language": [
+      "Python",
+      " JavaScript",
+      " and Ruby"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/5573f0b3cbe983ae0f2d00a2e610d6be?d=https%3A%2F%2Fidenticons.github.com%2F0d56a0b67c431d9394b76a9a269a30c9.png&s=400",
+    "followers": 1600,
+    "organizations": [
+      "Obvious",
+      "groveio"
+    ],
+    "contributions": 30,
+    "contributionsStreak": 1,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Fabio Akita",
+    "login": "akitaonrails",
+    "location": "Brazil",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and Shell"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/98c2fb4c31fae25fe0b618f1c994c1f3?d=https%3A%2F%2Fidenticons.github.com%2Fa78482ce76496fcf49085f2190e675b4.png&s=400",
+    "followers": 1200,
+    "organizations": [
+      "Codeminer42"
+    ],
+    "contributions": 28,
+    "contributionsStreak": 1,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "",
+    "login": "vim-scripts",
+    "location": "",
+    "language": [
+      "VimL",
+      " Python",
+      " and Shell"
+    ],
+    "gravatar": "https://2.gravatar.com/avatar/b7fa89418f6767ac5fe5bfbe8e86a014?d=https%3A%2F%2Fidenticons.github.com%2F43999bd3f40daae47cbe922a3b4ef12f.png&s=400",
+    "followers": 1900,
+    "organizations": [],
+    "contributions": 10,
+    "contributionsStreak": 1,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "Erica Sadun",
+    "login": "erica",
+    "location": "Denver, CO",
+    "language": [
+      "Objective-C",
+      " Shell",
+      " and C"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/5451f7df31d36d0159a018706aec7adb?d=https%3A%2F%2Fidenticons.github.com%2F110e71dd8e23f87f715956349fdd0fd7.png&s=400",
+    "followers": 1500,
+    "organizations": [],
+    "contributions": 10,
+    "contributionsStreak": 1,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "ry",
+    "login": "ry",
+    "location": "",
+    "gravatar": "https://0.gravatar.com/avatar/b984299ceb40752b58146714eb192554?d=https%3A%2F%2Fidenticons.github.com%2Ff033ab37c30201f73f142449d037028d.png&s=400",
+    "followers": 3100,
+    "organizations": [],
+    "contributions": 10,
+    "contributionsStreak": 1,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "cocos2d",
+    "login": "cocos2d",
+    "location": "",
+    "language": [
+      "C",
+      " Objective-C",
+      " and JavaScript"
+    ],
+    "gravatar": "https://0.gravatar.com/avatar/2c474191a9930625c01a6752b40ebf72?d=https%3A%2F%2Fidenticons.github.com%2F4a60188c269ff9e104dd3fff562f4795.png&s=400",
+    "followers": 1100,
+    "organizations": [],
+    "contributions": 4,
+    "contributionsStreak": 1,
+    "contributionsCurrentStreak": 0
+  },
+  {
+    "name": "PJ Hyett",
+    "login": "pjhyett",
+    "location": "San Francisco",
+    "language": [
+      "Ruby",
+      " JavaScript",
+      " and C"
+    ],
+    "gravatar": "https://1.gravatar.com/avatar/947c333c75de1dc54a711a400d575c8c?d=https%3A%2F%2Fidenticons.github.com%2Feccbc87e4b5ce2fe28308fd9f2a7baf3.png&s=400",
+    "followers": 7300,
+    "organizations": [
+      "github"
+    ],
+    "contributions": 2,
+    "contributionsStreak": 1,
+    "contributionsCurrentStreak": 0
+  }
+]
