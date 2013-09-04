@@ -20,7 +20,7 @@ getStats = (html, url) ->
     name: byProp('name').text().trim()
     login: byProp('additionalName').text().trim()
     location: byProp('homeLocation').text().trim()
-    language: (/[\w-]+[,|.]{1}\s[\w-]+[,|.]{1}\s[\w]+\s[\w-]+/.exec(pageDesc)?[0].split "," ? '')
+    language: (pageDesc)
     gravatar: byProp('image').attr('href')
     followers: getFollowers()
     organizations: $('.orgs li > a').map(getOrgName)

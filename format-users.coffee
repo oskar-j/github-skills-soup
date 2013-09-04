@@ -9,7 +9,7 @@ top = (stats, field, type) ->
   format = (stat) ->
     value = get stat
     switch type
-      when 'thousands' then "#{(value / 100)}k"
+      when 'thousands' then "#{(value / 1000)}k"
       else value
 
   stats
